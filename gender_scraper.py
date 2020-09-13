@@ -65,7 +65,7 @@ for year in years:
 			if country_list == []:
 				continue
 			
-			# For each country in each list, find final country referenced
+			# For each country in each list, find final country referenced as corresponding authors are usually listed last 
 			for country in country_list: 
 					
 				# Find country in the html	
